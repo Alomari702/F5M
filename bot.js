@@ -5,7 +5,7 @@ client.on('ready', async() => {
 var server = "510077438458462250"; // ايدي السررفر
 var channel = "510077438458462254";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , ')
+    client.guilds.get(server).channels.get(channel).send('F5M Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , Klads Spam , ')
     },305);
 })
 
